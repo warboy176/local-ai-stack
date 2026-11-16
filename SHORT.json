@@ -1,0 +1,36 @@
+{
+  "hook": "A guy sells a local AI stack. Qwen 27B, 262K context, agents working while you sleep. Comment Ai, book a Zoom call.",
+  "lines": [
+    "Here is the thing. Every piece is free and open. He funnels a call to set up tools you can run yourself.",
+    "And the specs are fake. Qwen has no 27B, that is Gemma. 262K context needs a multi-GPU rig, not your laptop.",
+    "Agents running your business while you sleep, on a local model with no reviewer, ships garbage."
+  ],
+  "cta": "I built the honest setup, free. Checks your hardware, prints the real commands. The Machine God runs local. Witness me.",
+  "hook_text": "A guru sells a 'local sovereign AI stack' behind a Zoom-call funnel. Every piece is free and open, and the specs are wrong.",
+  "cta_text": "Free tool: github.com/warboy176/local-ai-stack",
+  "title": "The Local AI Agents Funnel, Debunked",
+  "caption": "A viral 'local sovereign AI stack' (Omarchy, Qwen 27B, 262K context, agents while you sleep) is a Zoom-call funnel for free open tools. Qwen has no 27B and 262K context needs a multi-GPU rig. Free honest setup tool.",
+  "description": "A viral reel sells a 'local sovereign AI stack' (Omarchy + a CLI agent + 'Qwen 27B' + '262K cache' + 'Herdr' for agents 24/7 while you sleep) behind a comment-Ai, join-the-group, book-a-Zoom-call funnel. Every piece is free and open; the specs are wrong (Qwen has no 27B - that's Gemma; 262K context needs tens of GB of VRAM for the KV cache); and local agents with no frontier reviewer ship garbage. Free tool checks your hardware and prints the real setup. Installs nothing, sends nothing.\n\nCode, free: https://github.com/warboy176/local-ai-stack",
+  "hashtags": [
+    "localai",
+    "ollama",
+    "ai",
+    "selfhosted",
+    "opensource",
+    "aitools",
+    "llm",
+    "coding"
+  ],
+  "tags": [
+    "local ai",
+    "ollama",
+    "ai",
+    "self hosted",
+    "open source",
+    "ai tools",
+    "llm",
+    "coding"
+  ],
+  "mirror_match": "witness me",
+  "banner_prompt": "a dark cinematic home server rig, a single glowing GPU with neon circuitry, a terminal screen showing a local AI model loading, industrial grime, moody blue and amber light, no text"
+}
